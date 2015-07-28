@@ -1,0 +1,5 @@
+ARD: 
+    http://www.ardmediathek.de/play/media/29765096
+
+ZDF: 
+    http://www.zdf.de/ZDFmediathek/xmlservice/web/beitragsDetails?id=2451850&format=json
