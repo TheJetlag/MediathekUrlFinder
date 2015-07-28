@@ -8,5 +8,5 @@
 6. The Extension is now installed
 
 ## Todo
-[ ] Support for ZDF Mediathek
-[ ] Use the extension typicall popup for displaying the url
+- [ ] Support for ZDF Mediathek
+- [ ] Use the extension typicall popup for displaying the url
